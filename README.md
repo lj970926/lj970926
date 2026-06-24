@@ -32,8 +32,6 @@ struct Lj970926 {
 };
 ```
 
-## 🐍 Contribution Snake
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
