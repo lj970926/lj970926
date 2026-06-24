@@ -9,4 +9,25 @@ learning infrastructure.
 - 🔥 Building with PaddlePaddle and PyTorch
 - ✍️ Writing about systems, performance, and engineering
 
+```c++
+struct Lj970926 {
+    std::vector<std::string> languages{
+        "C++", "Python", "Rust"
+    };
 
+    std::vector<std::string> interests{
+        "MLSys",
+        "LLM Inference",
+        "Model Serving",
+        "Distributed Systems",
+        "Performance Optimization"
+    };
+
+    std::vector<std::string> currently_exploring{
+        "vLLM",
+        "SGLang",
+        "PaddlePaddle",
+        "PyTorch"
+    };
+};
+```
