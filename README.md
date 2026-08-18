@@ -4,26 +4,13 @@ I'm a developer interested in high-performance systems and machine
 learning infrastructure.
 
 ```c++
-struct Lj970926 {
-    std::vector<std::string> languages{
-        "C++", "Python", "Rust"
-    };
-
-    std::vector<std::string> interests{
-        "MLSys",
-        "LLM Inference",
-        "Model Serving",
-        "Distributed Systems",
-        "Performance Optimization"
-    };
-
-    std::vector<std::string> currently_exploring{
-        "vLLM",
-        "SGLang",
-        "PaddlePaddle",
-        "PyTorch"
-    };
+auto me = Developer{
+    .name = "lj970926",
+    .languages = {"C++", "Python", "Rust"},
+    .focus = "Machine Learning Systems",
 };
+
+me.learn("LLM training, inference, and serving");
 ```
 
 <picture>
